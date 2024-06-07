@@ -1,2 +1,1 @@
-# unialfa
-Sistema distribuido
+
